@@ -1,0 +1,1 @@
+rm components/Aurora.tsx 
